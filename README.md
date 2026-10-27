@@ -8,28 +8,38 @@
 
 ### `чурка не бывает веселым.`
 
-<br/>
-
-**чёрное · красное · белое**  
-в духе *Dororo*
-
 </div>
 
 ---
 
-### сейчас в работе
+### Featured projects
 
-| проект | о чём |
-|:---|:---|
-| [**vechera-cafe**](https://github.com/ihatetoenails/vechera-cafe) | сайт франшизы кафе · Next.js / FrontPad |
-| [**ittop-buffet-bot**](https://github.com/ihatetoenails/ittop-buffet-bot) | Telegram-бот буфета колледжа IT TOP |
-| [**zenvyro**](https://github.com/ihatetoenails/zenvyro) | веб-студия |
-| [**library**](https://github.com/ihatetoenails/library) · [**simple-library**](https://github.com/ihatetoenails/simple-library) | библиотека на Go |
-| [**go-text-analyzer**](https://github.com/ihatetoenails/go-text-analyzer) | анализатор текста · курсовой |
+<p>
+  <a href="https://github.com/ihatetoenails/vechera-cafe">
+    <img src="https://img.shields.io/badge/vechera--cafe-Cafe_franchise_site_%7C_Next.js-8B0000?style=for-the-badge&labelColor=0a0a0a" alt="vechera-cafe"/>
+  </a>
+  <a href="https://github.com/ihatetoenails/ittop-buffet-bot">
+    <img src="https://img.shields.io/badge/ittop--buffet--bot-College_buffet_Telegram_bot-f5f5f5?style=for-the-badge&labelColor=0a0a0a&color=f5f5f5" alt="ittop-buffet-bot"/>
+  </a>
+</p>
+<p>
+  <a href="https://github.com/ihatetoenails/zenvyro">
+    <img src="https://img.shields.io/badge/zenvyro-Web_studio-0a0a0a?style=for-the-badge&logoColor=white&color=0a0a0a" alt="zenvyro"/>
+  </a>
+  <a href="https://github.com/ihatetoenails/library">
+    <img src="https://img.shields.io/badge/library-Go_library_project-8B0000?style=for-the-badge&labelColor=0a0a0a" alt="library"/>
+  </a>
+  <a href="https://github.com/ihatetoenails/simple-library">
+    <img src="https://img.shields.io/badge/simple--library-Go_coursework-f5f5f5?style=for-the-badge&labelColor=0a0a0a" alt="simple-library"/>
+  </a>
+  <a href="https://github.com/ihatetoenails/go-text-analyzer">
+    <img src="https://img.shields.io/badge/go--text--analyzer-Text_analyzer_%7C_coursework-0a0a0a?style=for-the-badge" alt="go-text-analyzer"/>
+  </a>
+</p>
 
 ---
 
-### 🛠️ Технологии, которые я использую
+### Technologies I use
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
@@ -55,7 +65,7 @@
 
 <div align="center">
 
-*«Если тело украли демоны — отбери его обратно.»*  
+*«If demons stole your body — take it back.»*  
 — *Dororo*
 
 </div>
