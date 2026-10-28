@@ -81,6 +81,10 @@
 
 <div align="center">
 
+<img src="assets/dororo-end.gif" width="680" alt="Hyakkimaru — Dororo"/>
+
+<br/><br/>
+
 *«If demons stole your body — take it back.»*  
 — *Dororo*
 
