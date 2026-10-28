@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="assets/hyakkimaru.gif" width="680" alt="Hyakkimaru — Dororo"/>
-
-<br/>
-
-# churkanothappy
-
-### `чурка не бывает веселым.`
+<img src="assets/hyakkimaru.gif" width="680" alt="Hyakkimaru - Dororo"/>
 
 </div>
+
+---
+
+### Обо мне
+
+Делаю сайты, Telegram ботов и учебные проекты на Go.  
+Стек: TypeScript, Next.js, React, Node.js, Go.  
+Собираю вещи под реальное использование: франшизный сайт cafe, бот для буфета колледжа, библиотеки и анализатор текста.  
+Есть веб-студия [Zenvyro](https://github.com/ihatetoenails/zenvyro). Учусь и постоянно что то деплою.
 
 ---
 
@@ -81,11 +84,11 @@
 
 <div align="center">
 
-<img src="assets/dororo-end.gif" width="680" alt="Hyakkimaru — Dororo"/>
+<img src="assets/dororo-end.gif" width="680" alt="Hyakkimaru - Dororo"/>
 
 <br/><br/>
 
-*«If demons stole your body — take it back.»*  
-— *Dororo*
+*«If demons stole your body - take it back.»*  
+*Dororo*
 
 </div>
