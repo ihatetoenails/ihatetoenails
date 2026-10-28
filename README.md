@@ -80,13 +80,37 @@
 
 ### Technologies I use
 
-<div align="center">
-
-| Languages | Frontend | Backend | Tools |
-|:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=0a0a0a&labelColor=0a0a0a" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=0a0a0a&labelColor=0a0a0a" alt="TypeScript"/> <img src="https://img.shields.io/badge/Go-ffffff?style=for-the-badge&logo=go&logoColor=0a0a0a&labelColor=0a0a0a" alt="Go"/> | <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=0a0a0a&labelColor=0a0a0a" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=0a0a0a&labelColor=0a0a0a" alt="CSS3"/> <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=0a0a0a&labelColor=0a0a0a" alt="React"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0a0a0a" alt="Next.js"/> | <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=0a0a0a&labelColor=0a0a0a" alt="Node.js"/> <img src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=0a0a0a&labelColor=0a0a0a" alt="Telegram"/> <img src="https://img.shields.io/badge/npm-ffffff?style=for-the-badge&logo=npm&logoColor=0a0a0a&labelColor=0a0a0a" alt="npm"/> | <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=0a0a0a&labelColor=0a0a0a" alt="Git"/> <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=0a0a0a&labelColor=0a0a0a" alt="Linux"/> <img src="https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=0a0a0a&labelColor=0a0a0a" alt="VS Code"/> <img src="https://img.shields.io/badge/Markdown-ffffff?style=for-the-badge&logo=markdown&logoColor=0a0a0a&labelColor=0a0a0a" alt="Markdown"/> <img src="https://img.shields.io/badge/Deploy-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Deploy"/> |
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a" alt="JavaScript"/><br/>
+      <img src="https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0a" alt="TypeScript"/><br/>
+      <img src="https://img.shields.io/badge/-Go-ffffff?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0a0a" alt="Go"/>
+    </td>
+    <td align="center" width="25%">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0a" alt="HTML5"/><br/>
+      <img src="https://img.shields.io/badge/-CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0a0a" alt="CSS3"/><br/>
+      <img src="https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a0a" alt="React"/><br/>
+      <img src="https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0a0a0a" alt="Next.js"/>
+    </td>
+    <td align="center" width="25%">
+      <strong>Backend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0a0a0a" alt="Node.js"/><br/>
+      <img src="https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" alt="Telegram"/><br/>
+      <img src="https://img.shields.io/badge/-npm-ffffff?style=for-the-badge&logo=npm&logoColor=white&labelColor=0a0a0a" alt="npm"/>
+    </td>
+    <td align="center" width="25%">
+      <strong>Tools</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a" alt="Git"/><br/>
+      <img src="https://img.shields.io/badge/-Linux-ffffff?style=for-the-badge&logo=linux&logoColor=white&labelColor=0a0a0a" alt="Linux"/><br/>
+      <img src="https://img.shields.io/badge/-VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0a0a0a" alt="VS Code"/><br/>
+      <img src="https://img.shields.io/badge/-Markdown-ffffff?style=for-the-badge&logo=markdown&logoColor=white&labelColor=0a0a0a" alt="Markdown"/><br/>
+      <img src="https://img.shields.io/badge/-Deploy-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Deploy"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
